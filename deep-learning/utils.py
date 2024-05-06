@@ -18,14 +18,9 @@ def fetch_stock_data(tickers, start_date=None, end_date=None, interval='1d'):
     """
     stock_data = {}
     for ticker in tickers:
-        try:
-            stock = yf.Ticker(ticker)
-            data = stock.history(start=start_date, end=end_date, interval=interval)
-            data.reset_index(inplace=True)
-            data.rename(columns={'Date': 'Date'}, inplace=True)
-            stock_data[ticker] = data
-        except Exception as e:
-            print(f"Error fetching data for {ticker}: {str(e)}")
+        stock = yf.Ticker(ticker)
+        data = stock.history(start=start_date, end=end_date, interval=interval)
+        stock_data[ticker] = data
     
     return stock_data
 
