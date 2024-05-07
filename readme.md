@@ -27,6 +27,11 @@ This is a collection of deep learning models used for forecasting rather than th
 
 I built some visualization tools that leverage plotly to open an interactive browser-based visualizer with some indicators given a user-chosen set of tickers.  The data is fetched leveraging the [yfinance](https://github.com/ranaroussi/yfinance) API, then fed into the visualization system.  Here are some screenshots of the visualizer.
 
+Here's a view of some different metrics computed for AAPL visualized.
 ![apple_image](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/visualizations/Apple_Statistics_Visualized.png?raw=true)
 
+Here's a visualization of the relative cumulative performace of different tickers
 ![all_stocks](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/visualizations/Cumulative_Returns_Visualized.png?raw=true)
+
+Here's a violin plot showing the distribution of returns for various equities.
+![all_stocks](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/visualizations/Violin-Plot.png?raw=true)
