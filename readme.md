@@ -12,6 +12,7 @@ This is a collection of agent-based models I've put together.  All of these trai
 - [Actor-Critic (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/neuro-evolution-agent-novelty-search.ipynb)
 - [Evolution Strategy (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/evolution-strategy-agent.ipynb)
 - [Q-Learning (PyTorch and TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/q-learning-agent-pytorch.ipynb)
+- [Double Q-Learning (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/double-q-learning-agent.ipynb)
 - [Moving-Average-Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/ma-agent.ipynb)
 - [Turtle Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/turtle-agent.ipynb)
 - [Signal Rolling Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/signal-roller.ipynb)
