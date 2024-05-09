@@ -12,7 +12,7 @@ This is a collection of agent-based models I've put together.  All of these trai
 - [Evolution Strategy (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/evolution-strategy-agent.ipynb)
 - [Q-Learning (PyTorch and TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/q-learning-agent-pytorch.ipynb)
 - [Double Q-Learning (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/double-q-learning-agent.ipynb)
-- [Recurrent Q-Learning (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/recurrent-q-learning-agent.ipynb)
+- [Recurrent Q-Learning (PyTorch) (debugging!)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/not_working/recurrent-q-learning-agent.ipynb)
 - [Moving-Average-Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/ma-agent.ipynb)
 - [Turtle Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/turtle-agent.ipynb)
 - [Signal Rolling Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/signal-roller.ipynb)
@@ -23,6 +23,7 @@ This is a collection of agent-based models I've put together.  All of these trai
 This is a collection of deep learning models used for forecasting rather than the RL/Agent models.
 - [LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm.ipynb)
 - [Bidirectional LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-bidirectional.ipynb)
+- [2 Path LSTM (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-2Path.ipynb)
 
 # Visualization System
 
