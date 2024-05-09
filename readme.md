@@ -26,6 +26,7 @@ This is a collection of deep learning models used for forecasting rather than th
 - [2 Path LSTM (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-2Path.ipynb)
 - [Gated recurrent unit (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/GRU.ipynb)
 - [Bidirectional GRU (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/GRU_Bidirectional.ipynb)
+- [2 Path GRU (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/GRU_2Path.ipynb)
 
 # Visualization System
 
