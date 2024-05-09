@@ -19,7 +19,7 @@ This is a collection of agent-based models I've put together.  All of these trai
 - [Neuro-evolution agent (Self-implemented neural net)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/neuro-evolution-agent.ipynb)
 - [Neuro-evolution agent with Novelty Search (Self-implemented neural net)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/neuro-evolution-agent-novelty-search.ipynb)
 
-## Deep Learning Models Models (Reinforcement-Learning)
+## Deep Learning Models
 This is a collection of deep learning models used for forecasting rather than the RL/Agent models.
 - [LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm.ipynb)
 - [Bidirectional LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-bidirectional.ipynb)
