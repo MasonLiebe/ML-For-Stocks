@@ -24,10 +24,11 @@ This is a collection of deep learning models used for forecasting rather than th
 - [LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm.ipynb)
 - [Bidirectional LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-bidirectional.ipynb)
 - [2 Path LSTM (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-2Path.ipynb)
+- [Gated recurrent unit (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-2Path.ipynb)
 
 # Visualization System
 
-I built some visualization tools that leverage plotly to open an interactive browser-based visualizer with some indicators given a user-chosen set of tickers.  The data is fetched leveraging the [yfinance](https://github.com/ranaroussi/yfinance) API, then fed into the visualization system.  Here are some screenshots of the visualizer.
+I built some visualization tools that leverage plotly to open an interactive browser-based visualizer with some indicators, then fed into the visualization system.  Here are some screenshots of the visualizer.
 
 Here's a view of some different metrics computed for AAPL visualized.
 ![apple_image](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/visualizations/Apple_Statistics_Visualized.png?raw=true)
