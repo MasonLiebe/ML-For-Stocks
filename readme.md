@@ -2,8 +2,7 @@
 
 **ML-For-Stocks** is a comprehensive repository featuring a diverse collection of machine learning and deep learning models specifically tailored for stock market forecasting. This repo includes a variety of predictive models, trading bots, and simulations designed to provide insights into stock movements and trading strategies. It serves as a resource for both academic researchers and financial market analysts seeking to apply advanced analytical techniques to the financial markets.
 
-Explore an extensive range of models including LSTM variations, GRUs, Q-learning agents, and more, along with real-time agents and data exploration notebooks. For hands-on applications, check our simulations and TensorFlow-js implementations, where models are ready for real-world testing and interaction.
-
+Explore an extensive range of models including LSTM variations, GRUs, Q-learning agents, and more, along with real-time agents and data exploration notebooks.
 
 # Models Implemented So Far
 
@@ -13,6 +12,7 @@ This is a collection of agent-based models I've put together.  All of these trai
 - [Evolution Strategy (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/evolution-strategy-agent.ipynb)
 - [Q-Learning (PyTorch and TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/q-learning-agent-pytorch.ipynb)
 - [Double Q-Learning (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/double-q-learning-agent.ipynb)
+- [Recurrent Q-Learning (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/recurrent-q-learning-agent.ipynb)
 - [Moving-Average-Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/ma-agent.ipynb)
 - [Turtle Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/turtle-agent.ipynb)
 - [Signal Rolling Agent (numpy)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/reinforcement-learning/signal-roller.ipynb)
