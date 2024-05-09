@@ -22,6 +22,7 @@ This is a collection of agent-based models I've put together.  All of these trai
 ## Deep Learning Models
 This is a collection of deep learning models used for forecasting rather than the RL/Agent models.
 - [Convolutional Neural Network](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/cnn.ipynb)
+- [Recurrent Neural Network](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/rnn.ipynb)
 - [LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm.ipynb)
 - [Bidirectional LSTM (TensorFlow)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-bidirectional.ipynb)
 - [2 Path LSTM (PyTorch)](https://github.com/MasonLiebe/ML-For-Stocks/blob/main/deep-learning/lstm-2Path.ipynb)
